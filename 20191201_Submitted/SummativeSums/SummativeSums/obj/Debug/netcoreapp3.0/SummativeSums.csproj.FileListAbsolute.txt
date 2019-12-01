@@ -1,0 +1,11 @@
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.0\SummativeSums.exe
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.0\SummativeSums.deps.json
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.0\SummativeSums.runtimeconfig.json
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.0\SummativeSums.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.0\SummativeSums.dll
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.0\SummativeSums.pdb
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.0\SummativeSums.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.0\SummativeSums.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.0\SummativeSums.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.0\SummativeSums.dll
+C:\Users\Kyle\source\repos\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.0\SummativeSums.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.0\HealthyHearts.exe
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.0\HealthyHearts.deps.json
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.0\HealthyHearts.runtimeconfig.json
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.0\HealthyHearts.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.0\HealthyHearts.dll
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.0\HealthyHearts.pdb
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.0\HealthyHearts.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.0\HealthyHearts.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.0\HealthyHearts.dll
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.0\HealthyHearts.pdb
+C:\Users\Kyle\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.0\HealthyHearts.csprojAssemblyReference.cache
